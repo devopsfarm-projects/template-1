@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "title": "Football Training",
+      "description": "Join our expert-led football training program to enhance your skills and fitness.",
+      "image": "/images/football-training.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Basketball Camp",
+      "description": "A specialized training camp for aspiring basketball players of all levels.",
+      "image": "/images/basketball-camp.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Cricket Academy",
+      "description": "Comprehensive cricket coaching program for all age groups.",
+      "image": "/images/cricket-academy.jpg"
+    }
+  ]
+  

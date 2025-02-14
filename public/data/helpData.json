@@ -1,0 +1,32 @@
+{
+    "title": "How can we help you?",
+    "sections": [
+      {
+        "title": "Why Register",
+        "items": [
+          "Talent Identification and Scholarships",
+          "Partnerships and Collaborations",
+          "Academic Integration"
+        ]
+      },
+      {
+        "title": "Programs Offered",
+        "items": [
+          "Cricket",
+          "Football",
+          "Athletics",
+          "Volleyball"
+        ]
+      },
+      {
+        "title": "Coaching Philosophy",
+        "items": [
+          "Skill Development",
+          "Physical Fitness",
+          "Mental Conditioning",
+          "Tactical Training"
+        ]
+      }
+    ]
+  }
+  

@@ -1,0 +1,30 @@
+{
+    "title": "Why Us",
+    "qualities": [
+      {
+        "title": "Inclusivity",
+        "description": "Ensuring opportunities for all, regardless of background."
+      },
+      {
+        "title": "Innovation",
+        "description": "Incorporating modern technology and training techniques into our programs."
+      },
+      {
+        "title": "Passion",
+        "description": "Cultivating a love for sports and physical well-being."
+      },
+      {
+        "title": "Excellence",
+        "description": "Striving for the highest standards in all areas of sports education."
+      },
+      {
+        "title": "Integrity",
+        "description": "Encouraging honesty, fairness, and transparency."
+      }
+    ],
+    "prospectus": {
+      "title": "Our Prospectus",
+      "fileUrl": "http://innovativesportsacademy.com/wp-content/uploads/2024/10/FINAL-2-PROSPECTUS.pdf"
+    }
+  }
+  
